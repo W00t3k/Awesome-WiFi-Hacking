@@ -22,7 +22,9 @@ This is a up to the date list of tools, and procedures on how to perform wireles
 - Routers
 
 
-## Blogs
+## Techhniques
+
+## Procedures
 
 
 ## Training and Education Resources
