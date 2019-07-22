@@ -28,3 +28,5 @@ This is a up to the date list of tools, and procedures on how to perform wireles
 
 
 ## Training and Education Resources
+
+- https://katacoda.com/singe/scenarios/monitor-mode
