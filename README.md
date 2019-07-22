@@ -8,9 +8,9 @@ This is a up to the date list of tools, and procedures on how to perform wireles
 - Hostapd-WPE
 - Airckrack
 - Kismet
-- Bettercap (https://github.com/bettercap/bettercap)
+- [Bettercap](https://github.com/bettercap/bettercap)
 - Bleah
-- [Eap Hammer] (https://github.com/s0lst1c3/eaphammer)
+- [Eap Hammer](https://github.com/s0lst1c3/eaphammer)
 - [Hostapa Mana](https://github.com/sensepost/hostapd-mana)
 - [WPA_Sycophant](https://github.com/sensepost/wpa_sycophant)
 
@@ -18,12 +18,11 @@ This is a up to the date list of tools, and procedures on how to perform wireles
 ## Hardware
 
 - Hak5
-- Compatiablie 5ghz USB devices ()
+- [How to get your new 5 GHz wireless penetration gear up and working](https://medium.com/@adam.toscher/configure-your-new-wireless-ac-1fb65c6ada57)
 - Routers
 
 
 ## Blogs
-
 
 
 ## Training and Education Resources
