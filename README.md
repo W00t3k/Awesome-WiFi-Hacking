@@ -17,14 +17,14 @@ This is a up to the date list of tools, and procedures on how to perform wireles
 
 ## Hardware
 
-- [Hak5 Pineapples](https://shop.hak5.org/products/wifi-pineapple)
-- [How to get your new 5 GHz wireless penetration gear up and working](https://medium.com/@adam.toscher/configure-your-new-wireless-ac-1fb65c6ada57)
-
 
 ## Techhniques
 
+- [Top Five Ways I gained access to Your Corporate Wireless Network (Lo0tBo0ty KARMA edition)](https://medium.com/@adam.toscher/top-5-ways-i-gained-access-to-your-corporate-wireless-network-lo0tbo0ty-karma-edition-f72e7995aef2)
+
 ## Procedures
-=
+- [How to get your new 5 GHz wireless penetration gear up and working](https://medium.com/@adam.toscher/configure-your-new-wireless-ac-1fb65c6ada57)
+
 ## Training and Education Resources
 
 - https://katacoda.com/singe/scenarios/monitor-mode
